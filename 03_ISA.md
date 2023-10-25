@@ -24,9 +24,13 @@ intructions의 유형, 데이터 사용법, 데이터 형식, instructions 형�
 - 워드는 4바이트(32bits) -> 주소 4씩 차이남,레지스터 또한 32bit 데이터 범위
 
 - alienment restrictions : 메모리 내에서 데이터는 자연스러운 경계를 지켜서 정렬되어야 한다. <br>
-n의 배수 데이터 주소, n size의 데이터
+n의 배수 데이터 주소, n size의 데이터  <br>
 
-- big endian: 앞쪽이 앞 
+- big endian: 앞쪽이 앞  <br>
 
-- Design principle 3: Make the common case fast
-- 
+- Design principle 3: Make the common case fast  <br>
+  "16-bit 수치 피연산자 처리를 위한" addi, $zero <br>
+
+
+---------------------------------<br>
+
