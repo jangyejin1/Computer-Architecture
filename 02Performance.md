@@ -21,7 +21,7 @@
 ++More about
 - Benchmark: 컴퓨터의 성능을 비교하기 위해 선택된 프로그램
 
-$$\sqrt{Execution time <sub>REF</sub>/ Execution time <sub> X</sub>}$$
+$$\sqrt{$$\pi$$Execution time <sub>REF</sub>/ Execution time <sub> X</sub>}$$
 
 - Amdahl's law
 개선후 실행시간 = 개선에 의해 영향을 받는 실행시간 / 개선의 크기 + 영향을 받지 않는 실행시간
