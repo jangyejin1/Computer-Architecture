@@ -3,7 +3,7 @@
 
 - Performance = 1 / execution time (response time)
 - X is N time faster then Y <br>
-  Executions time <sub>y</sub> $\frac{1}{2}$ Executions time <sub>x</sub>
+  $\frac{Executions time <sub>y</sub>}{Executions time <sub>x</sub>}$ 
 
 
 
