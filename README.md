@@ -20,7 +20,7 @@
 
 ++More about
 Benchmark: 컴퓨터의 성능을 비교하기 위해 선택된 프로그램
--Performance: 
+-Performance: </br>
 $$\sqrt{Execution time <sub>REF / Execution time <sub> X}$$
 
 
