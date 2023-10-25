@@ -4,7 +4,7 @@
 - Performance = 1 / execution time (response time)
 - X is N time faster then Y <br>
   <em> Executions time <sub>y</sub> / Executions time <sub>x</sub> </em>
-
+$$\frac{Execution time <sub>REF / Execution time <sub> X}$$
 - clock rate = 1 / clock period
 
 <table>
