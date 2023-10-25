@@ -3,7 +3,7 @@
 
 - Performance = 1 / execution time (response time)
 - X is N time faster then Y <br>
-  Executions time <sub>y</sub> / Executions time <sub>x</sub>
+  <em> Executions time <sub>y</sub> / Executions time <sub>x</sub> </em>
 
 - clock rate = 1 / clock period
 
