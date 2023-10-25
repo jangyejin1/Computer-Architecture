@@ -4,7 +4,7 @@
 - Performance = 1 / execution time (response time)
 - X is N time faster then Y <br>
   <em> Executions time <sub>y</sub> / Executions time <sub>x</sub> </em>
-$$\frac{Execution time <sub>REF / Execution time <sub> X}$$
+
 - clock rate = 1 / clock period
 
 <table>
@@ -21,7 +21,9 @@ $$\frac{Execution time <sub>REF / Execution time <sub> X}$$
 ++More about
 Benchmark: 컴퓨터의 성능을 비교하기 위해 선택된 프로그램
 
-$$\sqrt{Execution time <sub>REF / Execution time <sub> X}$$
+Performance: $$\sqrt{Execution time <sub>REF / Execution time <sub> X}$$
+
+
 
 
 
