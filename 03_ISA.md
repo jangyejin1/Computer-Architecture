@@ -3,10 +3,10 @@
 
 - Instruction Set Architecture(ISA) : Language of the computer & an interface between SW and HW  <br>
 intructions의 유형, 데이터 사용법, 데이터 형식, instructions 형식
-<hr>
+
 - Design principle 1: Simplicity favors regularity  <br>
   " 1 operation & 3 operands " <br>
-<hr>
+
 - Design principle 2: Smaller is faster  <br>
   피연사자는 레지스터라는 하드웨어로 직접 구현된 특수 위치 몇 곳에 있는 것만을 사용할 수 있다. <br>
   레지스터는 32비트, 32비트를 한 덩어리로 word <br>
@@ -15,7 +15,7 @@ intructions의 유형, 데이터 사용법, 데이터 형식, instructions 형�
    <br>
   --레지스터 개수보다 많은 데이터 원소는? <br>
   "메모리를 사용한다." -> 산술연산은 레지스터에서만 실행되므로 메모리와 레지스터간 주고받는 명령어 필요
-   <br>
+  <br>
 - data transter instruction
  lw (메모리 -> 레지스터) <br>
  sw (레지스터 -> 메모리)
@@ -28,9 +28,12 @@ n의 배수 데이터 주소, n size의 데이터  <br>
  <br>
 - big endian: 앞쪽이 앞  <br>
  <br>
- <hr>
 - Design principle 3: Make the common case fast  <br>
   "16-bit 수치 피연산자 처리를 위한" addi, $zero <br>
-<hr>
+- Design principle 4: Good design demands good compromise
+  "모든 지침을 동일한 길이로 균일하게 유지"
+  <hr>
+  -R-format
+  -I-format (mips 표 참고)
 
-
+  
